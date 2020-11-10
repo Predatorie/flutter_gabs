@@ -1,4 +1,4 @@
-class Api {
+class Url {
   /// https://stagingapi.artsy.net/api
   static String artsyTestBaseUrl = 'https://stagingapi.artsy.net/api/';
 
